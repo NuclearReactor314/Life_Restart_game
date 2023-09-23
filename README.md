@@ -8,7 +8,7 @@ hope you enjoy the game
 
 If there is no other reason not to update
 
-仓库已经合并到 https://github.com/huige233/liftresartnon 之中
+The warehouse has been merged into https://github.com/huige233/liftresartnon 之中
 
 限制版本已经移除
 
