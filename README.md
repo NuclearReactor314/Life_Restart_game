@@ -4,7 +4,7 @@ Game Life Restart
 
 It's a change version
 
-hope you play happy
+hope you enjoy the game
 
 If there is no other reason not to update
 
